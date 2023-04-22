@@ -1,4 +1,4 @@
-# jetpack-learning-samples
+# Jetpack-learning-samples
 A collection of sample apps built to learn JetPack Compose concepts
 
 # Project 1: Affirmation
