@@ -49,7 +49,7 @@ class CupcakeScreenNavigationTest {
     fun cupcakeNavHost_clickOneCupcake_navigatesToSelectFlavorScreen() {
         composeTestRule.onNodeWithStringId(R.string.one_cupcake)
             .performClick()
-        navController.assertCurrentRouteName(CupcakeScreen.Summary.name)
+        navController.assertCurrentRouteName(CupcakeScreen.Flavor.name)
     }
 
     @Test
